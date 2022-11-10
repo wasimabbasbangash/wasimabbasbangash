@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wasimabbasbangash
-- 👀 I’m interested in Front-end development.
+- 👀 I’m interested in software development projects.
 - 🌱 I’m currently working on React js based frontend projects.
-- 💞️ I’m looking to collaborate on projects based on React framework
+- 💞️ I’m looking to collaborate on projects especially based on React framework
 - 📫 You can reach me at abbas110bangash@gmail.com
 
 <!---
